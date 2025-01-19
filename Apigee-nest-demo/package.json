@@ -1,0 +1,11 @@
+
+{
+  "name": "nestjs-apigee-demo",
+  "version": "1.0.0",
+  "description": "NestJS project to integrate with Apigee",
+  "dependencies": {
+    "@nestjs/common": "^9.0.0",
+    "@nestjs/core": "^9.0.0",
+    "axios": "^1.0.0"
+  }
+}
